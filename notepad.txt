@@ -1,0 +1,1 @@
+look after the directory which are changes and index.css in style.css look after this and just start your project in this way.
